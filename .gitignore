@@ -3,3 +3,4 @@
 # Node
 node_modules/
 grunt-http-server*.tgz
+*.sublime-*
