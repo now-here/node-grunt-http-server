@@ -3,3 +3,6 @@
 # Node
 node_modules/
 grunt-http-server*.tgz
+*.sublime-*
+package-lock.json
+yarn.lock
